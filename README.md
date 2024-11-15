@@ -62,3 +62,4 @@ A curated list of websites I liked the design of. Simple, minimal and clean. The
 - [Iconoir](https://iconoir.com)
 - [Derya Desins](https://www.deryakbadesigns.com/)
 - [Ahmad Shadeed](https://ishadeed.com/)
+- [Morgan Feeny](https://morganfeeney.com/)
